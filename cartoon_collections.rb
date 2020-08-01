@@ -44,5 +44,5 @@ summon_captain_planet(["two", "go", "industrious", "bop"])
 
 long_planeteer_calls(["two", "go", "industrious", "bop"])
 
-snacks = ["crackers", "gouda", "thyme"]
+snacks = ["crackers", "hamza", "thyme"]
 find_the_cheese(snacks)
