@@ -19,10 +19,10 @@ def long_planeteer_calls(words) # code an argument here
   # Your code here
   words.find do |word|
     if word.length > 4
-      return false
+      return true
     end
   end
-  true
+  false
 end
 
 def find_the_cheese(cheeses) # code an argument here
