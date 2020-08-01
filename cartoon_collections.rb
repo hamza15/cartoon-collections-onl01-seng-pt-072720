@@ -34,13 +34,3 @@ def find_the_cheese(cheeses) # code an argument here
     end
   end
 end
-
-names = ["Doc", "Dopey", "Bashful", "Grumpy"]
-roll_call_dwarves(names)
-
-summon_captain_planet(["two", "go", "industrious", "bop"])
-
-long_planeteer_calls(["two", "go", "industrious", "bop"])
-
-snacks = ["crackers", "hamza", "thyme"]
-find_the_cheese(snacks)
