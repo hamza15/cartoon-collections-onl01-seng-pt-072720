@@ -33,6 +33,7 @@ def find_the_cheese(cheeses) # code an argument here
   cheeses_type.each do |cheese|
     if cheeses.include?(cheese)
       puts cheese
+    end
   end
 end
 
