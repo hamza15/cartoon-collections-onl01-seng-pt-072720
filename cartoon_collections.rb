@@ -30,8 +30,9 @@ end
 def find_the_cheese(cheeses) # code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheeses.
-  
+  cheeses.each do |cheese|
+    
+  end
 end
 
 names = ["Doc", "Dopey", "Bashful", "Grumpy"]
